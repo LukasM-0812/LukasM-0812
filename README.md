@@ -13,7 +13,7 @@ I think I am most intrigued by these concepts in Mathematics (does not necessari
 - Calculus
 - Graphs theory
 
-Besides my studies, I also love Music: I have completed ABRSM Grade 8 Piano, organised my own school ensemble, and arranged pieces...
+Besides my studies, I also love Music: I have completed ABRSM Grade 8 Piano, organised my own school ensemble, and arranged [pieces](https://musescore.com/user/81495964)...
 
 Now I am trying to learn programming too
 CS is kind of hard, huh
