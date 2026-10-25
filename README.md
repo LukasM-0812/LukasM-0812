@@ -18,9 +18,8 @@ Besides my studies, I also love Music:
 - organised my own school ensemble
 - and arranged [pieces](https://musescore.com/user/81495964)...
 
-Now I am trying to learn programming too
+Now I am trying to learn programming, and I'm learning more about AI too
 
-CS is kind of hard, huh
 <!--
 **LukasM-0812/LukasM-0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
